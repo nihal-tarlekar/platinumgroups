@@ -1,0 +1,1305 @@
+@media (max-width: 2560px){
+    .about {
+        margin-top: 26%;
+    }
+    .img-banner {
+        width: 55.5%;
+    } 
+}
+@media (max-width: 1920px){
+    .img-banner {
+        width: 50%;
+    }
+    .banner-caption {
+        margin-top: 13%;
+    }
+    .banner-caption p {
+        font-size: 26px;
+    }
+    .banner-caption h3 {
+        font-size: 49px;
+    }
+    .banner-caption h1 {
+        font-size: 130px;
+    }
+    .banner-caption h6 {
+        font-size: 27px;
+        line-height: 36px;
+        padding-top: 1%;
+        margin-bottom: 0%;
+    }
+    .banner-caption h5 {
+        font-size: 23px;
+        line-height: 34px;
+        padding-top: 8%;
+        margin-bottom: 0%;
+    }
+    .enquire-btn {
+        font-size: 20px;
+        padding: 14px 5px;
+        margin-top: 2%;
+    }
+    .about {
+        margin-top: 10%;
+    }
+    .about-caption h6, .aminities-caption h6, .specification-caption h6, .cut-section-caption h6 {
+        letter-spacing: 5px;
+        font-size: 20px;
+    }
+    .about-caption h3, .aminities-caption h3, .specification-caption h3, .cut-section-caption h3, .quick-connect h3 {
+        font-size: 52px;
+    }
+    .about-caption h2, .aminities-caption h2, .specification-caption h2, .cut-section-caption h2 {
+        font-size: 62px;
+    }
+    .about-caption p, .aminities-caption p, .cut-section-caption p {
+        font-size: 22px;
+        line-height: 32px;
+        padding-right: 21%;
+    }
+    .about-caption-1 p {
+        font-size: 15px;
+        padding-top: 15%;
+    }
+    .map, .conf {
+        width: 42%;
+    }
+    .broucher-btn, .cut-btn {
+        font-size: 20px;
+        padding: 14px 20px;
+    }
+    .aminities-caption-1 p {
+        font-size: 22px;
+    }
+    .specification-caption-1 h4 {
+        font-size: 24px;
+        padding-top: 5%;
+    }
+    .specification-caption-1 li {
+        font-size: 16px;
+        padding-right: 20%;
+    }
+    .location-caption h4 {
+        font-size: 62px;
+    }
+    .location-caption-1 p, .location-caption-2 p {
+        font-size: 16px;
+    }
+    .btn-smt {
+        font-size: 18px;
+        padding: 18px 60px;
+    }
+    .contact-lightbox .quick-connect h3 {
+        font-size: 46px;
+    }
+    .contact-lightbox .quick-connect p {
+        font-size: 18px;
+    }
+    .contact-lightbox .form-control {
+        padding: 2% 2%;
+        font-size: 1rem;
+    }
+    .contact-lightbox .form-control-1 {
+        padding: 4% 4%;
+    }
+    .fa-chevron-circle-left, .fa-chevron-circle-right {
+        margin-top: 35%;
+    }
+    .lightbox-body {
+        margin: 5% auto;
+    }
+}
+@media (max-width: 1600px){
+    .banner-caption p {
+        font-size: 22px;
+    }
+    .banner-caption h3 {
+        font-size: 44px;
+    }
+    .img-banner {
+        width: 55%;
+    }
+    .banner-caption h1 {
+        font-size: 112px;
+    }
+    .banner-caption h6 {
+        font-size: 23px;
+        line-height: 32px;
+    }
+    .banner-caption h5 {
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .enquire-btn {
+        font-size: 17px;
+        padding: 14px 5px;
+        margin-top: 1%;
+    }
+    .banner-caption {
+        margin-top: 14%;
+    }
+    .about {
+        margin-top: 12%;
+    }
+    .about-caption h6, .aminities-caption h6, .specification-caption h6, .cut-section-caption h6 {
+        letter-spacing: 5px;
+        font-size: 18px;
+    }
+    .about-caption p, .aminities-caption p, .cut-section-caption p {
+        font-size: 21px;
+        line-height: 32px;
+        padding-right: 21%;
+    }
+    .about-caption h3, .aminities-caption h3, .specification-caption h3, .cut-section-caption h3, .quick-connect h3 {
+        font-size: 48px;
+    }
+    .about-caption h2, .aminities-caption h2, .specification-caption h2, .cut-section-caption h2 {
+        font-size: 60px;
+    }
+    .broucher-btn, .cut-btn {
+        font-size: 17px;
+        padding: 14px 18px;
+    }
+    .aminities-caption-1 p {
+        font-size: 21px;
+    }
+    .specification-caption-1 h4 {
+        font-size: 23px;
+        padding-top: 5%;
+    }
+    .inquiry h6, .inquiry-1 h6 {
+        font-size: 23px;
+        padding-top: 5%;
+    }
+    .inquiry p, .inquiry-1 p {
+        font-size: 18px;
+    }
+    .inquiry, .inquiry-1 {
+        padding-bottom: 8%;
+    }
+    .btn-smt {
+        font-size: 17px;
+        padding: 16px 55px;
+    }
+    .location-caption h4 {
+        font-size: 60px;
+    }
+}
+@media (max-width: 1440px){
+    .banner-caption p {
+        font-size: 21px;
+    }
+    .banner-caption h3 {
+        font-size: 42px;
+    }
+    .banner-caption h1 {
+        font-size: 105px;
+    }
+    .img-banner {
+        width: 58%;
+    }
+    .banner-caption h6 {
+        font-size: 22px;
+        line-height: 32px;
+    }
+    .banner-caption h5 {
+        font-size: 19px;
+        line-height: 24px;
+        padding-top: 10%;
+    }
+    .enquire-btn {
+        font-size: 16px;
+        padding: 14px 7px;
+        margin-top: 1%;
+    }
+    .broucher-btn, .cut-btn {
+        font-size: 16px;
+        padding: 14px 18px;
+    }
+    .contact-lightbox .quick-connect p {
+        font-size: 16px;
+        padding-right: 1%;
+    }
+}
+@media (max-width: 1366px){
+
+}
+@media (max-width: 1280px){
+    .banner-caption {
+        margin-top: 16%;
+    }
+    .banner-caption p {
+        font-size: 20px;
+    }
+    .banner-caption h3 {
+        font-size: 40px;
+    }
+    .banner-caption h1 {
+        font-size: 102px;
+    }
+    .img-banner {
+        width: 60%;
+    }
+    .banner-caption h6 {
+        font-size: 21px;
+        line-height: 30px;
+    }
+    .banner-caption h5 {
+        font-size: 18px;
+        line-height: 0px;
+        padding-top: 8%;
+    }
+    .enquire-btn {
+        font-size: 15px;
+        padding: 14px 7px;
+        margin-top: 2%;
+    }
+    .about-caption h6, .aminities-caption h6, .specification-caption h6, .cut-section-caption h6 {
+        letter-spacing: 4px;
+        font-size: 18px;
+    }
+    .broucher-btn, .cut-btn {
+        font-size: 15px;
+        padding: 14px 18px;
+    }
+}
+@media (max-width: 1280px) and (max-height: 800px){
+    .enquire-btn {
+        font-size: 14px;
+        padding: 12px 2px;
+        margin-top: 2%;
+    }
+    .broucher-btn, .cut-btn {
+        font-size: 14px;
+        padding: 12px 15px;
+    }
+    .inquiry h6, .inquiry-1 h6 {
+        font-size: 21px;
+        padding-top: 5%;
+    }
+    .btn-smt {
+        font-size: 14px;
+        padding: 15px 50px;
+    }
+    .contact-lightbox .quick-connect p {
+        font-size: 16px;
+        padding-right: 2%;
+    }
+    .inquiry, .inquiry-1 {
+        padding-bottom: 7%;
+    }
+}
+@media (max-width: 1280px) and (max-height: 720px){
+    .banner-caption p {
+        font-size: 18px;
+    }
+    .banner-caption h3 {
+        font-size: 36px;
+    }
+    .banner-caption h1 {
+        font-size: 100px;
+    }
+    .banner-caption h6 {
+        font-size: 19px;
+        line-height: 24px;
+    }
+    .banner-caption h5 {
+        font-size: 16px;
+        line-height: 0px;
+        padding-top: 8%;
+    }
+    .about {
+        margin-top: 14%;
+    }
+    .about-caption h6, .aminities-caption h6, .specification-caption h6, .cut-section-caption h6 {
+        letter-spacing: 4px;
+        font-size: 16px;
+    }
+    .about-caption h3, .aminities-caption h3, .specification-caption h3, .cut-section-caption h3, .quick-connect h3 {
+        font-size: 46px;
+    }
+    .about-caption p, .aminities-caption p, .cut-section-caption p {
+        font-size: 20px;
+        line-height: 32px;
+        padding-right: 21%;
+    }
+    .about-caption-1 p {
+        font-size: 14px;
+        padding-top: 10%;
+    }
+    .lightbox-body {
+        margin: 3% auto;
+    }
+    .map, .conf {
+        width: 40%;
+    }
+    .specification-caption-1 h4 {
+        font-size: 22px;
+        padding-top: 5%;
+    }
+    .location-caption h4 {
+        font-size: 58px;
+    }
+    .location-caption-1 p, .location-caption-2 p {
+        font-size: 14px;
+    }
+}
+@media (max-width: 1280px) and (max-height: 610px){
+    .about-caption p, .aminities-caption p, .cut-section-caption p {
+        font-size: 18px;
+        line-height: 30px;
+        padding-right: 21%;
+    }
+    .contact-lightbox .quick-connect h3 {
+        font-size: 40px;
+    }
+    .contact-lightbox .quick-connect p {
+        font-size: 14px;
+        padding-right: 2%;
+    }
+    .contact-lightbox .form-control {
+        padding: 1% 1%;
+        font-size: 0.9rem;
+    }
+    .contact-lightbox .form-control-1 {
+        padding: 2% 2%;
+        font-size: 0.9rem;
+    }
+    .fa-chevron-circle-left, .fa-chevron-circle-right {
+        margin-top: 30%;
+    }
+    .contact-lightbox {
+        width: 60%;
+        margin: 3% auto;
+    }
+    .inquiry p, .inquiry-1 p {
+        font-size: 17px;
+    }
+    .footer-1 {
+        margin-top: 2%;
+        padding-bottom: 0%;
+    }
+    .line{
+        height: 65px;
+        margin-top: -5%;
+    }
+    .footer-caption-1 {
+        margin-top: 0%;
+    }
+}
+@media (max-width: 1240px){
+    .aminities-caption-1 p {
+        font-size: 20px;
+    }
+}
+@media (max-width: 1152px){
+    .banner-caption p {
+        font-size: 19px;
+    }
+    .banner-caption h3 {
+        font-size: 36px;
+    }
+    .banner-caption h1 {
+        font-size: 82px;
+    }
+    .banner-caption h6 {
+        font-size: 20px;
+        line-height: 26px;
+    }
+    .banner-caption h5 {
+        font-size: 16px;
+        line-height: 0px;
+        padding-top: 10%;
+    }
+    .enquire-btn {
+        font-size: 14px;
+        padding: 12px 2px;
+        margin-top: 2%;
+    }
+    .about-caption h6, .aminities-caption h6, .specification-caption h6, .cut-section-caption h6 {
+        letter-spacing: 4px;
+        font-size: 16px;
+    }
+    .about-caption h3, .aminities-caption h3, .specification-caption h3, .cut-section-caption h3, .quick-connect h3 {
+        font-size: 45px;
+    }
+    .about-caption h2, .aminities-caption h2, .specification-caption h2, .cut-section-caption h2 {
+        font-size: 52px;
+    }
+    .about-caption p, .aminities-caption p, .cut-section-caption p {
+        font-size: 18px;
+        line-height: 30px;
+        padding-right: 18%;
+    }
+    .about-caption-1 p {
+        font-size: 14px;
+        padding-top: 10%;
+    }
+    .map, .conf {
+        width: 44%;
+    }
+    .broucher-btn, .cut-btn {
+        font-size: 14px;
+        padding: 12px 15px;
+    }
+    .aminities-caption-1 p {
+        font-size: 18px;
+    }
+    .specification-caption-1 h4 {
+        font-size: 21px;
+        padding-top: 5%;
+    }
+    .specification-caption-1 li {
+        font-size: 14px;
+        padding-right: 20%;
+    }
+    .fa-chevron-circle-left, .fa-chevron-circle-right {
+        margin-top: 30%;
+        font-size: 22px;
+    }
+    .location-caption h4 {
+        font-size: 52px;
+    }
+    .location-caption-1 p, .location-caption-2 p {
+        font-size: 14px;
+    }
+    .footer-caption a, .footer-caption p {
+        font-size: 11px;
+    }
+    .line{
+        height: 62px;
+    }
+    .footer-caption-1 {
+        margin-top: -1%;
+    }
+    .sub-footer p, .sub-footer a {
+        font-size: 12px;
+    }
+    .lightbox-body {
+        margin: 10% auto;
+        width: 60%;
+    }
+    .contact-lightbox {
+        width: 70%;
+    }
+    .btn-smt {
+        font-size: 14px;
+        padding: 15px 50px;
+    }
+}
+@media (max-width: 1024px) and (max-height: 1366px){
+    .banner-caption p {
+        font-size: 18px;
+    }
+    .banner-caption h3 {
+        font-size: 34px;
+    }
+    .banner-caption h1 {
+        font-size: 86px;
+    }
+    .banner-caption h5 {
+        font-size: 16px;
+        line-height: 0px;
+        padding-top: 8%;
+    }
+    .lightbox-body {
+        margin: 20% auto;
+        width: 80%;
+    }
+    .line {
+        height: 60px;
+    }
+    
+}
+@media (max-width: 1024px){
+    .banner-caption p {
+        font-size: 17px;
+    }
+    .banner-caption h3 {
+        font-size: 32px;
+    }
+    .banner-caption h1 {
+        font-size: 82px;
+    }
+    .img-banner {
+        width: 62%;
+    }
+    .banner-caption h6 {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .about-caption p, .aminities-caption p, .cut-section-caption p {
+        font-size: 17px;
+        line-height: 26px;
+        padding-right: 18%;
+    }
+    .aminities-caption-1 p {
+        font-size: 17px;
+    }
+    .specification-caption-1 h4 {
+        font-size: 20px;
+        padding-top: 5%;
+    }
+    .lightbox-body {
+        margin: 5% auto;
+        width: 65%;
+    }
+    .contact-lightbox {
+        width: 70%;
+    }
+    .inquiry, .inquiry-1 {
+        padding-bottom: 12%;
+    }
+}
+@media (max-width: 800px){
+    .banner-caption p {
+        font-size: 16px;
+    }
+    .banner-caption h3 {
+        font-size: 30px;
+    }
+    .banner-caption h1 {
+        font-size: 60px;
+    }
+    .img-banner {
+        width: 60%;
+    }
+    .banner-caption h1 {
+        font-size: 64px;
+    }
+    .banner-caption h6 {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .banner-caption h5 {
+        font-size: 14px;
+        line-height: 0px;
+        padding-top: 5%;
+    }
+    .img-mail {
+        width: 12%;
+    }
+    .enquire-btn {
+        font-size: 14px;
+        padding: 10px 0px;
+        margin-top: 3%;
+    }
+    .about-caption h6, .aminities-caption h6, .specification-caption h6, .cut-section-caption h6 {
+        letter-spacing: 3px;
+        font-size: 14px;
+    }
+    .about-caption h3, .aminities-caption h3, .specification-caption h3, .cut-section-caption h3, .quick-connect h3 {
+        font-size: 32px;
+    }
+    .about-caption h2, .aminities-caption h2, .specification-caption h2, .cut-section-caption h2 {
+        font-size: 38px;
+    }
+    .about-caption p, .aminities-caption p, .cut-section-caption p {
+        font-size: 16px;
+        line-height: 24px;
+        padding-right: 0%;
+    }
+    .map, .conf {
+        width: 50%;
+    }
+    .about-caption-1 p {
+        font-size: 12px;
+        padding-top: 10%;
+    }
+    .aminities-caption-1 p {
+        font-size: 13px;
+    }
+    .lightbox-body {
+        margin: 25% auto;
+        width: 80%;
+    }
+    .img-download {
+        width: 12%;
+    }
+    .img-cutbtn{
+        width: 20%;
+    }
+    .location-caption h4 {
+        font-size: 40px;
+    }
+    .location-caption-1 p, .location-caption-2 p {
+        font-size: 10px;
+    }
+    .inquiry h6, .inquiry-1 h6 {
+        font-size: 18px;
+        padding-top: 7%;
+    }
+    .inquiry p, .inquiry-1 p {
+        font-size: 16px;
+    }
+    .inquiry, .inquiry-1 {
+        padding-bottom: 18%;
+    }
+    .quick-connect p {
+        font-size: 14px;
+    }
+    .contact-lightbox {
+        width: 90%;
+    }
+    .footer-caption a, .footer-caption p {
+        font-size: 9px;
+    }
+    .img-footer-5 {
+        margin-top: 10%;
+    }
+    .thank-u{
+        margin-top: 15%;
+        margin-bottom: 15%;
+    }
+}
+@media (max-width: 768px){
+
+}
+@media (max-width: 480px){
+    .navbar-brand{
+        text-align: center;
+    }
+    .img-logo {
+        width: 42%;
+    }
+    .img-banner{
+        position: relative;
+        margin-top: 25%;
+        width: 95%;
+    }
+    .banner{
+        text-align: center;
+    }
+    .banner-caption {
+        margin-top: 5%;
+    }
+    .banner-caption h3 {
+        font-size: 30px;
+    }
+    .banner-caption h1 {
+        font-size: 54px;
+    }
+    .banner-caption h6 {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .banner-caption h5 {
+        font-size: 14px;
+        line-height: 0px;
+        padding-top: 10%;
+    }
+    .img-mail {
+        width: 15%;
+    }
+    .enquire-btn {
+        font-size: 16px;
+        padding: 12px 2px;
+        margin-top: 5%;
+    }
+    .about{
+        text-align: center;
+    }
+    .img-slider {
+        margin-left: 4%;
+    }
+    .img-search {
+        top: 40%;
+        left: 50%;
+    }
+    .carousel-indicators {
+        right: 30%;
+        bottom: 8%;
+    }
+    .lightbox-body {
+        margin: 40% auto;
+        width: 90%;
+    }
+    .fa-chevron-circle-left, .fa-chevron-circle-right {
+        margin-top: 30%;
+        font-size: 28px;
+    }
+    .carousal-next, .carousal-prev {
+        width: 70%;
+        height: 15%;
+    }
+    .about-caption {
+        padding-top: 8%;
+        padding-left: 0%;
+    }
+    .about-caption h6, .aminities-caption h6, .specification-caption h6, .cut-section-caption h6 {
+        letter-spacing: 3px;
+        font-size: 15px;
+    }
+    .about-caption h3, .aminities-caption h3, .specification-caption h3, .cut-section-caption h3, .quick-connect h3 {
+        font-size: 35px;
+    }
+    .about-caption h2, .aminities-caption h2, .specification-caption h2, .cut-section-caption h2 {
+        font-size: 50px;
+    }
+    .about-caption p, .aminities-caption p, .cut-section-caption p {
+        font-size: 16px;
+        line-height: 28px;
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+    .about-caption-1 {
+        margin-top: 8%;
+        padding-left: 0%;
+    }
+    .img-map {
+        width: 26%;
+    }
+    .img-conf {
+        width: 36%;
+    }
+    .about-caption-1 p {
+        text-align: center;
+        font-size: 15px;
+        padding-top: 10%;
+    }
+    .broucher-btn, .cut-btn {
+        font-size: 16px;
+        padding: 14px 18px;
+    }
+    .broucher-btn{
+        margin-left: 0%;
+    }
+    .aminities{
+        text-align: center;
+        padding-bottom: 8%;
+    }
+    .aminities-caption-1 p {
+        font-size: 18px;
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+    .specification {
+        padding-top: 10%;
+        padding-bottom: 5%;
+    }
+    .specification-caption-1{
+        text-align: center;
+    }
+    .specification-caption-1 li {
+        font-size: 17px;
+        padding-right: 5%;
+        padding-left: 5%;
+        list-style: none;
+    }
+    .specification-caption-1 ul {
+        padding-left: 0%;
+    }
+    .specification-caption-1 h4 {
+        font-size: 21px;
+        padding-top: 5%;
+    }
+    .cut-btn{
+        margin-top: 10%;
+    }
+    .cut-section {
+        padding-top: 10%;
+        padding-bottom: 10%;
+    }
+    .location-caption {
+        padding-left: 0%;
+        text-align: center;
+        padding-top: 5%;
+    }
+    .location-caption-1 p, .location-caption-2 p {
+        font-size: 18px;
+    }
+    .location-caption-2 p {
+        line-height: 33.5px;
+    }
+    .inquiry h6, .inquiry-1 h6 {
+        font-size: 21px;
+        padding-top: 5%;
+    }
+    .inquiry p, .inquiry-1 p {
+        font-size: 18px;
+    }
+    .inquiry, .inquiry-1 {
+        padding-bottom: 10%;
+    }
+    .contact-lightbox .quick-connect h3 {
+        font-size: 40px;
+    }
+    .contact-lightbox .quick-connect p {
+        font-size: 14px;
+        padding-right: 1%;
+    }
+    .contact-lightbox {
+        width: 90%;
+        margin: 25% auto;
+    }
+    .contact-lightbox .form-control {
+        padding: 4% 4%;
+        font-size: 1rem;
+    }
+    .quick-connect {
+        padding: 5%;
+        margin-top: 8%;
+    }
+    .quick-connect h3 {
+        padding-left: 3.5%;
+    }
+    .quick-connect p {
+        padding-left: 4.2%;
+    }
+    .footer{
+        text-align: center;
+        padding-top: 12%;
+    }
+    .footer-caption {
+        display: block;
+    }
+    .footer-caption a, .footer-caption p, .footer-1 p {
+        font-size: 14px;
+        padding-top: 3%;
+        padding-bottom: 2%;
+        color: #BCBCBC;
+        padding-left: 0%;
+    }
+    .img-footer-5 {
+        margin-top: 0%;
+        width: 80%;
+        margin-bottom: 10%;
+    }
+    .img-footer-4 {
+        width: 80%;
+        margin-bottom: 10%;
+    }
+    .last-footer-img{
+        width: 32%;
+        text-align: right;
+    }
+    .img-footer-3 {
+        width: 30%;
+    }
+    .footer-last-caption{
+        width: 60%;
+    text-align: left;
+    padding-left: 5%;
+    }
+    .footer-caption-1{
+        display: flex !important;
+    }
+    .sub-footer p, .sub-footer a {
+        font-size: 14px;
+    }
+    .thank-u{
+        margin-top: 20%;
+        margin-bottom: 20%;
+        padding-left: 5%;
+        padding-right: 5%;
+        
+    }
+}
+@media (max-width: 414px){
+    .img-logo {
+        width: 50%;
+    }
+    .navigation {
+        padding-top: 5%;
+        padding-bottom: 5%;
+    }
+    .img-banner {
+        margin-top: 30%;
+        width: 96%;
+    }
+    .banner-caption h3 {
+        font-size: 28px;
+    }
+    .banner-caption h1 {
+        font-size: 50px;
+    }
+    .enquire-btn {
+        font-size: 16px;
+        padding: 12px 2px;
+        margin-top: 7%;
+    }
+    .carousel-indicators {
+        right: 20%;
+        bottom: 8%;
+    }
+    .about-caption h6, .aminities-caption h6, .specification-caption h6, .cut-section-caption h6 {
+        letter-spacing: 3px;
+        font-size: 14px;
+    }
+    .about-caption h3, .aminities-caption h3, .specification-caption h3, .cut-section-caption h3, .quick-connect h3 {
+        font-size: 32px;
+    }
+    .about-caption h2, .aminities-caption h2, .specification-caption h2, .cut-section-caption h2 {
+        font-size: 44px;
+    }
+    .about-caption p, .aminities-caption p, .cut-section-caption p {
+        font-size: 15px;
+        line-height: 26px;
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+    .about-caption-1 p {
+        font-size: 14px;
+        padding-top: 10%;
+    }
+    .aminities-caption-1 p {
+        font-size: 17px;
+        padding-left: 4%;
+        padding-right: 4%;
+    }
+    .specification-caption-1 h4 {
+        font-size: 20px;
+        padding-top: 5%;
+    }
+    .specification-caption-1 li {
+        font-size: 16px;
+        padding-right: 5%;
+        padding-left: 5%;
+    }
+    .location-caption h4 {
+        font-size: 38px;
+    }
+    .location-caption-1 p, .location-caption-2 p {
+        font-size: 17px;
+    }
+    .location-caption-2 p {
+        line-height: 31.5px;
+    }
+    .thank-u{
+        margin-top: 35%;
+        margin-bottom: 20%;
+        padding-left: 5%;
+        padding-right: 5%;
+        
+    }
+}
+@media (max-width: 412px){
+    .contact-lightbox {
+        width: 90%;
+        margin: 15% auto;
+    }
+    .footer-caption a, .footer-caption p, .footer-1 p {
+        font-size: 13px;
+    }
+    .thank-u{
+        margin-top: 40%;
+        margin-bottom: 20%;
+        padding-left: 5%;
+        padding-right: 5%;
+        
+    }
+}
+@media (max-width: 384px){
+    .banner-caption p {
+        font-size: 15px;
+    }
+    .banner-caption h3 {
+        font-size: 27px;
+    }
+    .banner-caption h1 {
+        font-size: 48px;
+    }
+    .banner-caption h6 {
+        font-size: 15px;
+        line-height: 22px;
+    }
+    .banner-caption h5 {
+        font-size: 13px;
+        line-height: 0px;
+        padding-top: 12%;
+    }
+    .enquire-btn {
+        font-size: 14px;
+        padding: 12px 2px;
+        margin-top: 7%;
+    }
+    .carousel-indicators li {
+        width: 25px;
+        height: 3px;
+    }
+    .about-caption h6, .aminities-caption h6, .specification-caption h6, .cut-section-caption h6 {
+        letter-spacing: 3px;
+        font-size: 13px;
+    }
+    .about-caption h3, .aminities-caption h3, .specification-caption h3, .cut-section-caption h3, .quick-connect h3 {
+        font-size: 30px;
+    }
+    .about-caption h2, .aminities-caption h2, .specification-caption h2, .cut-section-caption h2 {
+        font-size: 40px;
+    }
+    .about-caption p, .aminities-caption p, .cut-section-caption p {
+        font-size: 14px;
+        line-height: 24px;
+        padding-left: 4%;
+        padding-right: 4%;
+    }
+    .about-caption-1 p {
+        font-size: 13px;
+        padding-top: 8%;
+    }
+    .broucher-btn, .cut-btn {
+        font-size: 14px;
+        padding: 14px 15px;
+    }
+    .aminities-caption-1 p {
+        font-size: 16px;
+        padding-top: 2%;
+        padding-left: 4%;
+        padding-right: 4%;
+    }
+    .specification-caption-1 h4 {
+        font-size: 18px;
+        padding-top: 5%;
+    }
+    .specification-caption-1 li {
+        font-size: 14px;
+        padding-right: 5%;
+        padding-left: 5%;
+    }
+    .fa-chevron-circle-left, .fa-chevron-circle-right {
+        margin-top: 30%;
+        font-size: 22px;
+    }
+    .location-caption h4 {
+        font-size: 36px;
+    }
+    .location-caption-1 p, .location-caption-2 p {
+        font-size: 15px;
+    }
+    .location-caption-2 p {
+        line-height: 28px;
+    }
+    .form-control {
+        padding: 2% 2%;
+        font-size: 0.9rem;
+        border-radius: 0%;
+    }   
+    .btn-smt {
+        font-size: 12px;
+        padding: 12px 40px;
+    }
+    .footer-caption a, .footer-caption p, .footer-1 p {
+        font-size: 12px;
+    }
+    .img-footer-4 {
+        width: 90%;
+        margin-bottom: 10%;
+    }
+    .img-footer-5 {
+        margin-top: 0%;
+        width: 90%;
+        margin-bottom: 10%;
+    }
+    .img-footer-3 {
+        width: 45%;
+    }
+    .sub-footer p, .sub-footer a {
+        font-size: 12px;
+    }
+    .contact-lightbox .quick-connect h3 {
+        font-size: 30px;
+    }
+    .contact-lightbox .quick-connect p {
+        font-size: 12px;
+        padding-right: 1%;
+    }
+    .contact-lightbox .form-control {
+        padding: 2% 2%;
+        font-size: 0.9rem;
+    }
+    .thank-u{
+        margin-top: 30%;
+        margin-bottom: 20%;
+        padding-left: 5%;
+        padding-right: 5%;
+        
+    }
+}
+@media (max-width: 375px){
+      
+}
+@media (max-width: 360px){
+    .about-caption h6, .aminities-caption h6, .specification-caption h6, .cut-section-caption h6 {
+        letter-spacing: 3px;
+        font-size: 12px;
+    }
+    .about-caption h3, .aminities-caption h3, .specification-caption h3, .cut-section-caption h3, .quick-connect h3 {
+        font-size: 28px;
+    }
+    .about-caption h2, .aminities-caption h2, .specification-caption h2, .cut-section-caption h2 {
+        font-size: 36px;
+    }
+    .about-caption p, .aminities-caption p, .cut-section-caption p {
+        font-size: 13px;
+        line-height: 22px;
+        padding-left: 4%;
+        padding-right: 4%;
+    }
+    .about-caption-1 p {
+        font-size: 12px;
+        padding-top: 8%;
+    }
+    .enquire-btn {
+        font-size: 13px;
+        padding: 10px 2px;
+        margin-top: 7%;
+    }
+    .broucher-btn, .cut-btn {
+        font-size: 13px;
+        padding: 14px 15px;
+    }
+    .aminities-caption-1 p {
+        font-size: 15px;
+        padding-top: 2%;
+        padding-left: 4%;
+        padding-right: 4%;
+    }
+    .specification-caption-1 h4 {
+        font-size: 17px;
+        padding-top: 5%;
+    }
+    .specification-caption-1 li {
+        font-size: 13px;
+        padding-right: 5%;
+        padding-left: 5%;
+    }
+    .location-caption h4 {
+        font-size: 34px;
+    }
+    .location-caption-1 p, .location-caption-2 p {
+        font-size: 14px;
+    }
+    .location-caption-2 p {
+        line-height: 25.5px;
+    }
+    .inquiry h6, .inquiry-1 h6 {
+        font-size: 20px;
+        padding-top: 5%;
+    }
+    .inquiry p, .inquiry-1 p {
+        font-size: 16px;
+    }
+    .thank-u{
+        margin-top: 30%;
+        margin-bottom: 20%;
+        padding-left: 5%;
+        padding-right: 5%;
+        
+    }
+}
+@media (max-width: 320px){
+    .banner-caption p {
+        font-size: 14px;
+    }
+    .banner-caption h3 {
+        font-size: 24px;
+    }
+    .banner-caption h1 {
+        font-size: 42px;
+    }
+    .banner-caption h6 {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .banner-caption h5 {
+        font-size: 12px;
+        line-height: 0px;
+        padding-top: 12%;
+    }
+    .enquire-btn {
+        font-size: 12px;
+        padding: 8px 2px;
+        margin-top: 10%;
+    }
+    .carousel-indicators li {
+        width: 20px;
+        height: 3px;
+    }
+    .about-caption h6, .aminities-caption h6, .specification-caption h6, .cut-section-caption h6 {
+        letter-spacing: 3px;
+        font-size: 11px;
+    }
+    .about-caption h3, .aminities-caption h3, .specification-caption h3, .cut-section-caption h3, .quick-connect h3 {
+        font-size: 25px;
+    }
+    .about-caption h2, .aminities-caption h2, .specification-caption h2, .cut-section-caption h2 {
+        font-size: 30px;
+    }
+    .about-caption p, .aminities-caption p, .cut-section-caption p {
+        font-size: 12px;
+        line-height: 20px;
+        padding-left: 4%;
+        padding-right: 4%;
+    }
+    .about-caption-1 p {
+        font-size: 11px;
+        padding-top: 8%;
+    }
+    .broucher-btn, .cut-btn {
+        font-size: 12px;
+        padding: 12px 12px;
+    }
+    .aminities-caption-1 p {
+        font-size: 14px;
+        padding-top: 2%;
+        padding-left: 4%;
+        padding-right: 4%;
+    }
+    .specification-caption-1 h4 {
+        font-size: 16px;
+        padding-top: 5%;
+    }
+    .specification-caption-1 li {
+        font-size: 12px;
+        padding-right: 5%;
+        padding-left: 5%;
+    }
+    .fa-chevron-circle-left, .fa-chevron-circle-right {
+        margin-top: 30%;
+        font-size: 18px;
+    }
+    .location-caption h4 {
+        font-size: 32px;
+    }
+    .location-caption-1 p, .location-caption-2 p {
+        font-size: 12px;
+    }
+    .location-caption-2 p {
+        line-height: 22.8px;
+    }
+    .inquiry h6, .inquiry-1 h6 {
+        font-size: 18px;
+        padding-top: 5%;
+    }
+    .inquiry p, .inquiry-1 p {
+        font-size: 14px;
+    }
+    .inquiry, .inquiry-1 {
+        padding-bottom: 10%;
+        padding-top: 10%;
+    }
+    .contact-lightbox .quick-connect h3 {
+        font-size: 26px;
+    }
+    .contact-lightbox .quick-connect p {
+        font-size: 11px;
+        padding-right: 1%;
+    }
+    .btn-smt {
+        font-size: 11px;
+        padding: 10px 40px;
+    }
+    .footer-caption a, .footer-caption p, .footer-1 p {
+        font-size: 10px;
+    }
+    .sub-footer p, .sub-footer a {
+        font-size: 10px;
+    }
+    .thank-u{
+        margin-top: 30%;
+        margin-bottom: 20%;
+        padding-left: 5%;
+        padding-right: 5%;
+        
+    }
+}

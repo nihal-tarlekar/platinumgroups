@@ -1,0 +1,1368 @@
+@media (max-width: 2560px){
+    .navbar-expand-lg .navbar-nav .nav-link {
+        font-size: 20px;
+    }
+    .carousel-caption {
+        right: 15%;
+        bottom: 0;
+        left: 28.5%;
+        top: 18%;
+    }
+    .banner-contact{
+        left: 28.5%;
+    }
+    .carousel-caption h1, .carousel-caption h2, .about-caption h3, .about-caption h2, .project-caption h3 {
+        font-size: 105px;
+    }
+    .banner-contact h6 {
+        font-size: 52px;
+    }
+    .banner-contact p {
+        font-family: 'Mulish-Bold';
+        font-size: 26px;
+        line-height: 30px;
+    }
+    .form-control {
+        padding: 2rem 1rem;
+        font-size: 2.2rem;
+    }
+    .btn-smt {
+        padding: 15px 50px;
+        font-size: 24px;
+        margin-top: 4%;
+    }
+    .about-caption h6 {
+        font-size: 30px;
+    }
+    .about-caption p {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .about-info-1 h4 {
+        font-size: 26px;
+    }
+    .project-caption p {
+        font-size: 27px;
+    }
+    .current-project-caption h4 {
+        font-size: 34px;
+        line-height: 34px;
+    }
+    .current-project-caption h5 {
+        font-size: 26px;
+    }
+    .current-project-caption p {
+        font-size: 21px;
+        line-height: 26px;
+    }
+    .current-project-caption h6 {
+        font-size: 17px;
+        margin-bottom: 1rem;
+    }
+    .lightbox-body {
+        width: 45%;
+        margin: 5% auto;
+    }
+    .current-project-caption-1 h6 {
+        font-size: 18px;
+        padding-top: 5%;
+        padding-bottom: 5%;
+    }
+    .btn-book {
+        font-size: 18px;
+        padding: 10px 20px;
+    }
+    .footer-caption {
+        width: 45.2%;
+        padding-left: 28%;
+    }
+    .footer-caption h3 {
+        font-size: 58px;
+        line-height: 58px;
+    }
+    .footer-caption p {
+        font-size: 24px;
+        line-height: 28px;
+    }
+    .footer-caption-1 h5 {
+        font-size: 42px;
+    }
+    .footer-caption-1 p, .footer-caption-1 p a {
+        font-size: 22px;
+        line-height: 30px;
+        margin-bottom: 0px;
+        padding-top: 2%;
+    }
+    .footer-caption-1 h6 a, .footer-caption-1 h6, .footer-caption-1 h4, .footer-caption-1 h4 a {
+        font-size: 18px;
+        padding-top: 15%;
+    }
+    .sub-footer-caption h4 {
+        font-size: 20px;
+    }
+    .subscibe-btn {
+        font-size: 16px;
+    }
+    .sub-footer-caption-1 p {
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 1920px){
+    .carousel-caption h1, .carousel-caption h2, .about-caption h3, .about-caption h2, .project-caption h3 {
+        font-size: 94px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        font-size: 18px;
+    }
+    .carousel-caption {
+        right: 15%;
+        bottom: 0;
+        left: 21%;
+        top: 15%;
+    }
+    .banner-contact {
+        left: 21%;
+    }
+    .form-control {
+        padding: 1.5rem 1rem;
+        font-size: 1.8rem;
+    }
+    .btn-smt {
+        padding: 14px 45px;
+        font-size: 20px;
+        margin-top: 4%;
+    }
+    .about-caption h6 {
+        font-size: 24px;
+    }
+    .about-caption p {
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .about-info-1 h4 {
+        font-size: 24px;
+    }
+    .project-caption p {
+        font-size: 25px;
+    }
+    .current-project-caption h4 {
+        font-size: 30px;
+        line-height: 30px;
+    }
+    .current-project-caption h5 {
+        font-size: 25px;
+    }
+    .current-project-caption p {
+        font-size: 20px;
+        line-height: 26px;
+    }
+    .current-project-caption h6 {
+        font-size: 16px;
+        margin-bottom: 1rem;
+    }
+    .current-project-caption-1 h6 {
+        font-size: 17px;
+        padding-top: 5%;
+        padding-bottom: 5%;
+    }
+    .btn-book {
+        font-size: 16px;
+        padding: 10px 20px;
+    }
+    .footer-caption {
+        width: 42.2%;
+        padding-left: 21%;
+    }
+    .sub-footer-caption h4 {
+        font-size: 18px;
+    }
+    .subscibe-btn {
+        font-size: 15px;
+    }
+    .sub-footer-caption-1 p {
+        font-size: 15px;
+    }
+}
+@media (max-width: 1920px) and (max-height: 970px){
+    .form-control {
+        padding: 1.2rem 1rem;
+        font-size: 1.5rem;
+    }
+    .footer-caption {
+        width: 43%;
+        padding-left: 21%;
+    }
+}
+@media (max-width: 1600px){
+    .navbar-expand-lg .navbar-nav .nav-link {
+        font-size: 17px;
+    }
+    .carousel-caption h1, .carousel-caption h2, .about-caption h3, .about-caption h2, .project-caption h3 {
+        font-size: 82px;
+    }
+    .carousel-caption {
+        right: 15%;
+        bottom: 0;
+        left: 15%;
+        top: 15%;
+    }
+    .banner-contact h6 {
+        font-size: 42px;
+    }
+    .img-contact {
+        width: 103%;
+    }
+    .banner-contact p {
+        font-size: 22px;
+        line-height: 24px;
+    }
+    .banner-contact {
+        left: 15%;
+    }
+    .about-caption h6 {
+        font-size: 24px;
+    }
+    .about-caption p {
+        font-size: 21px;
+        line-height: 26px;
+    }
+    .about-info-1 h4 {
+        font-size: 22px;
+    }
+    .project-caption p {
+        font-size: 22px;
+    }
+    .current-project-caption h4 {
+        font-size: 26px;
+        line-height: 26px;
+    }
+    .current-project-caption h5 {
+        font-size: 23px;
+    }
+    .current-project-caption p {
+        font-size: 18px;
+        line-height: 20px;
+    }
+    .current-project-caption h6 {
+        font-size: 14px;
+        margin-bottom: 1rem;
+    }
+    .current-project-caption-1 h6 {
+        font-size: 16px;
+        padding-top: 5%;
+        padding-bottom: 5%;
+    }
+    .btn-book {
+        font-size: 16px;
+        padding: 10px 20px;
+    }
+    .footer-caption {
+        width: 40%;
+        padding-left: 15%;
+    }
+    .footer-caption h3 {
+        font-size: 54px;
+        line-height: 54px;
+    }
+    .footer-caption p {
+        font-size: 22px;
+        line-height: 24px;
+    }
+    .footer-caption-1 h5 {
+        font-size: 40px;
+    }
+    .footer-caption-1 p, .footer-caption-1 p a {
+        font-size: 20px;
+        line-height: 26px;
+    }
+    .footer-caption-1 h6 a, .footer-caption-1 h6, .footer-caption-1 h4, .footer-caption-1 h4 a {
+        font-size: 15px;
+        padding-top: 15%;
+    }
+    .footer-caption-1 h4, .footer-caption-1 h4 a{
+        padding-top: 19%;
+    }
+    .sub-footer-caption h4 {
+        font-size: 18px;
+    }
+}
+@media (max-width: 1440px){
+    .carousel-caption h1, .carousel-caption h2, .about-caption h3, .about-caption h2, .project-caption h3 {
+        font-size: 80px;
+    }
+    .banner-contact h6 {
+        font-size: 40px;
+    }
+    .banner-contact p {
+        font-size: 20px;
+        line-height: 22px;
+    }
+    .carousel-caption, .banner-contact {
+        left: 12%;
+    }
+    .about-caption h6 {
+        font-size: 22px;
+    }
+    .about-caption p {
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .current-project-caption p {
+        font-size: 17px;
+        line-height: 20px;
+    }
+    .footer-caption {
+        width: 39%;
+        padding-left: 12%;
+    }
+    .footer-caption h3 {
+        font-size: 52px;
+        line-height: 50px;
+    }
+    .footer-caption p {
+        font-size: 21px;
+        line-height: 24px;
+    }
+    .footer-caption-1 h5 {
+        font-size: 38px;
+    }
+    .footer-caption-1 p, .footer-caption-1 p a {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .footer-caption-1 h6 a, .footer-caption-1 h6, .footer-caption-1 h4, .footer-caption-1 h4 a {
+        font-size: 14px;
+        padding-top: 15%;
+    }
+    .footer-caption-1 h4, .footer-caption-1 h4 a {
+        padding-top: 18%;
+    }
+}
+@media (max-width: 1366px){
+    .navbar-expand-lg .navbar-nav .nav-link {
+        font-size: 16px;
+    }
+    .carousel-caption h1, .carousel-caption h2, .about-caption h3, .about-caption h2, .project-caption h3 {
+        font-size: 74px;
+    }
+    .banner-contact h6 {
+        font-size: 38px;
+    }
+    .banner-contact p {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .form-control {
+        padding: 1rem 1rem;
+        font-size: 1.3rem;
+    }
+    .btn-smt {
+        padding: 14px 45px;
+        font-size: 18px;
+        margin-top: 4%;
+    }
+    .carousel-caption, .banner-contact {
+        left: 9%;
+    }
+    .about-caption h6 {
+        font-size: 20px;
+    }
+    .about-caption p {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .project-caption p {
+        font-size: 21px;
+    }
+    .current-project-caption h4 {
+        font-size: 24px;
+        line-height: 24px;
+    }
+    .current-project-caption h5 {
+        font-size: 22px;
+    }
+    .current-project-caption p {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .footer-caption {
+        width: 38%;
+        padding-left: 9%;
+    }
+}
+@media (max-width: 1280px){
+    .carousel-caption h1, .carousel-caption h2, .about-caption h3, .about-caption h2, .project-caption h3 {
+        font-size: 70px;
+    }
+    .carousel-caption, .banner-contact {
+        left: 7%;
+    }
+    .banner-contact h6 {
+        font-size: 36px;
+    }
+    .banner-contact p {
+        font-size: 17px;
+        line-height: 19px;
+    }
+    .about-caption h6 {
+        font-size: 19px;
+    }
+    .about-caption p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .project-caption p {
+        font-size: 20px;
+    }
+    .footer-caption {
+        width: 37%;
+        padding-left: 7%;
+    }
+    .footer-caption h3 {
+        font-size: 50px;
+        line-height: 48px;
+    }
+    .footer-caption p {
+        font-size: 20px;
+        line-height: 22px;
+    }
+    .footer-caption-1 h5 {
+        font-size: 34px;
+    }
+    .footer-caption-1 h6 a, .footer-caption-1 h6, .footer-caption-1 h4, .footer-caption-1 h4 a {
+        font-size: 13px;
+        padding-top: 15%;
+    }
+    .footer-caption-1 h4, .footer-caption-1 h4 a {
+        padding-top: 19%;
+    }
+    .sub-footer-caption-1 p {
+        font-size: 13px;
+    }
+}
+@media (max-width: 1280px) and (max-height: 800px){
+    .navigation {
+        padding-top: 0.5%;
+        padding-bottom: 0.5%;
+    }
+    .footer-caption-1 h6 a, .footer-caption-1 h6, .footer-caption-1 h4, .footer-caption-1 h4 a {
+        font-size: 12px;
+    }
+}
+@media (max-width: 1280px) and (max-height: 610px){
+    .navigation {
+        padding-top: 0%;
+        padding-bottom: 0%;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        font-size: 14px;
+    }
+    .img-logo {
+        width: 65%;
+    }
+    .form-control {
+        padding: 1rem 1rem;
+        font-size: 1rem;
+    }
+    .btn-smt {
+        padding: 14px 45px;
+        font-size: 14px;
+        margin-top: 2%;
+    }
+    .about-caption h6 {
+        font-size: 18px;
+    }
+    .about-caption p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .lightbox-body {
+        width: 45%;
+        margin: 3% auto;
+    }
+    .footer-caption-1 h6 a, .footer-caption-1 h6, .footer-caption-1 h4, .footer-caption-1 h4 a {
+        font-size: 12px;
+    }
+}
+@media (max-width: 1240px){
+    .carousel-caption h1, .carousel-caption h2, .about-caption h3, .about-caption h2, .project-caption h3 {
+        font-size: 64px;
+    }
+    .carousel-caption, .banner-contact {
+        left: 6%;
+    }
+    .banner-contact h6 {
+        font-size: 34px;
+    }
+    .banner-contact p {
+        font-size: 16px;
+        line-height: 18px;
+    }
+    .form-control {
+        padding: 1rem 1rem;
+        font-size: 1rem;
+    }
+    .btn-smt {
+        padding: 14px 40px;
+        font-size: 16px;
+        margin-top: 4%;
+    }
+    .about-caption h6 {
+        font-size: 18px;
+    }
+    .project-caption p {
+        font-size: 19px;
+    }
+    .current-project-caption h4 {
+        font-size: 22px;
+        line-height: 23px;
+    }
+    .current-project-caption h5 {
+        font-size: 20px;
+    }
+    .current-project-caption p {
+        font-size: 15px;
+        line-height: 18px;
+    }
+    .current-project-caption h6 {
+        font-size: 13px;
+        margin-bottom: 1rem;
+    }
+    .footer-caption {
+        width: 36%;
+        padding-left: 6%;
+    }
+    .footer-caption h3 {
+        font-size: 48px;
+        line-height: 46px;
+    }
+    .footer-caption p {
+        font-size: 18px;
+        line-height: 20px;
+    }
+    .footer-caption-1 h5 {
+        font-size: 30px;
+    }
+    .footer-caption-1 p, .footer-caption-1 p a {
+        font-size: 16px;
+        line-height: 20px;
+    }
+}
+@media (max-width: 1152px){
+    .carousel-caption, .banner-contact {
+        left: 10%;
+    }
+    .project-caption p {
+        font-size: 18px;
+    }
+    .footer-caption {
+        width: 39%;
+        padding-left: 10%;
+    }
+    .btn-book {
+        font-size: 15px;
+        padding: 10px 20px;
+    }
+}
+@media (max-width: 1024px) and (max-height: 1366px){
+    .carousel-caption h1, .carousel-caption h2, .about-caption h3, .about-caption h2, .project-caption h3 {
+        font-size: 58px;
+    }
+    .banner-contact h6 {
+        font-size: 30px;
+    }
+    .banner-contact p {
+        font-size: 14px;
+        line-height: 15px;
+    }
+    .carousel-caption, .banner-contact {
+        left: 5%;
+    }
+    .about-caption h6 {
+        font-size: 17px;
+    }
+    .about-caption p {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .about-info-1 h4 {
+        font-size: 20px;
+    }
+    .project-caption p {
+        font-size: 17px;
+    }
+    .current-project-caption h4 {
+        font-size: 20px;
+        line-height: 21px;
+    }
+    .current-project-caption h5 {
+        font-size: 18px;
+    }
+    .current-project-caption p {
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .current-project-caption h6 {
+        font-size: 12px;
+        margin-bottom: 1rem;
+    }
+    .footer-caption {
+        width: 36%;
+        padding-left: 5%;
+    }
+    .footer-caption h3 {
+        font-size: 42px;
+        line-height: 42px;
+    }
+    .footer-caption-1 h5 {
+        font-size: 28px;
+    }
+    .footer-caption-1 p, .footer-caption-1 p a {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .footer-caption-1 h6 a, .footer-caption-1 h6, .footer-caption-1 h4, .footer-caption-1 h4 a {
+        font-size: 12px;
+    }
+    .sub-footer-caption h4 {
+        font-size: 17px;
+    }
+    .form-control {
+        padding: 1rem 1rem;
+        font-size: 0.8rem;
+        line-height: 0.5;
+    }
+    .btn-smt {
+        padding: 12px 35px;
+        font-size: 14px;
+        margin-top: 5%;
+    }
+}
+@media (max-width: 1024px) {
+    .navbar-expand-lg .navbar-nav .nav-link {
+        font-size: 14px;
+    }
+    .carousel-caption h1, .carousel-caption h2, .about-caption h3, .about-caption h2, .project-caption h3 {
+        font-size: 52px;
+    }
+    .banner-contact h6 {
+        font-size: 28px;
+    }
+    .banner-contact p {
+        font-size: 13px;
+        line-height: 15px;
+    }
+    .about-caption h6 {
+        font-size: 16px;
+    }
+    .about-caption p {
+        font-size: 13px;
+        line-height: 18px;
+    }
+    .project-caption p {
+        font-size: 16px;
+    }
+    .current-project-caption h5 {
+        font-size: 17px;
+    }
+    .footer-caption h3 {
+        font-size: 40px;
+        line-height: 40px;
+    }
+    .footer-caption p {
+        font-size: 16px;
+        line-height: 20px;
+    }
+}
+@media (max-width: 800px){
+    .navbar-light .navbar-toggler{
+        border: 0px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        font-size: 16px;
+        padding-top: 3%;
+    }
+    .carousel-caption {
+        top: 12%;
+    }
+    .img-mobile-menu{
+        width: 100%;
+    }
+    .banner-contact h6 {
+        font-size: 22px;
+    }
+    .banner-contact p {
+        font-size: 10px;
+        line-height: 12px;
+    }
+    .carousel-caption h1, .carousel-caption h2, .about-caption h3, .about-caption h2, .project-caption h3 {
+        font-size: 46px;
+    }
+    .project-caption p {
+        font-size: 13px;
+    }
+    .current-project-caption h6 {
+        font-size: 10px;
+        margin-bottom: 1rem;
+    }
+    .lightbox-body {
+        width: 80%;
+        margin: 35% auto;
+    }
+    .img-contact {
+        width: 104%;
+    }
+    .form-control {
+        padding: 0.7rem 0.7rem;
+        font-size: 0.7rem;
+        line-height: 0.5;
+    }
+    .btn-smt {
+        padding: 10px 25px;
+        font-size: 12px;
+        margin-top: 7%;
+    }
+    .footer-caption {
+        width: 38%;
+        padding-left: 6%;
+    }
+    .footer-caption h3 {
+        font-size: 36px;
+        line-height: 36px;
+    }
+    .footer-caption-1 h5 {
+        font-size: 24px;
+    }
+    .footer-caption-1 p, .footer-caption-1 p a {
+        font-size: 12px;
+        line-height: 17px;
+    }
+    .footer-caption-1 {
+        padding-left: 5%;
+    }
+    .sub-footer-caption-1 p, .sub-footer-caption-1 h6 {
+        font-size: 12px;
+    }
+    .img-plus {
+        width: 12%;
+        right: 12%;
+        top: 4%;
+    }
+}
+@media (max-width: 768px){
+    .footer-caption-1 h6 a, .footer-caption-1 h6, .footer-caption-1 h4, .footer-caption-1 h4 a {
+        font-size: 12px;
+        padding-top: 10%;
+    } 
+}
+@media (max-width: 480px){
+    .navbar-brand {
+        margin-right: -10rem;
+        width: 100%;
+    }
+    .img-logo {
+        width: 60%;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        font-size: 22px;
+        padding-top: 5%;
+    }
+    .navbar-nav{
+        padding-bottom: 5%;
+        padding-top: 5%;
+    }
+    .navbar-toggler {
+        padding: 0rem 0rem;
+    }
+    .carousel-caption h2, .about-caption h3 {
+        margin-bottom: 0px;
+    }
+    .carousel-caption, .banner-contact {
+        left: 4%;
+    }
+    .banner-contact h6 {
+        font-size: 29px;
+    }
+    .banner-contact p {
+        font-size: 15px;
+        line-height: 17px;
+    }
+    .banner-contact{
+        width: 55%;
+    }
+    .closebtn {
+        right: 4%;
+        top: 1%;
+        font-size: 30px;
+        width: 50px;
+        height: 50px;
+        border-radius: 62%;
+    }
+    .img-contact {
+        width: 100%;
+    }
+    .form-control {
+        padding: 1rem 1rem;
+        font-size: 1.5rem;
+        line-height: 1.5;
+    }
+    .btn-smt {
+        padding: 12px 35px;
+        font-size: 16px;
+        margin-top: 5%;
+    }
+    .connect-form {
+        padding-top: 10%;
+        padding-right: 5%;
+        padding-left: 5%;
+        padding-bottom: 10%;
+    }
+    .about {
+        background-image: url(../images/homepage/mob-about-banner.jpg);
+        background-repeat: no-repeat;
+        background-size: 100%;
+        padding-top: 10%;
+    }
+    .about-caption{
+        padding-left: 2%;
+    }
+    .about-caption p {
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .side-lne {
+        border-bottom: 1px solid #fff;
+    }
+    .project {
+        padding-top: 8%;
+        padding-bottom: 8%;
+    }
+    .project-caption h3, .project-caption p{
+        text-align: left;
+    }
+    .project-caption p {
+        font-size: 16px;
+        margin-left: 0%;
+    }
+    .current-project-caption h4 {
+        font-size: 21px;
+        line-height: 24px;
+    }
+    .current-project-caption h5, .current-project-caption p, .current-project-caption h6{
+        display: none;
+    }
+    .current-project-caption hr:last-child{
+        display: none;
+    }
+    .img-plus {
+        width: 10%;
+        right: 6%;
+        top: 2%;
+    }
+    .lightbox-body {
+        width: 90%;
+        margin: 35% auto;
+    }
+    .img-project-logo {
+        width: 75%;
+    }
+    .current-project-caption-1 h6 {
+        font-size: 24px;
+        padding-top: 7%;
+        padding-bottom: 5%;
+    }
+    .btn-book {
+        font-size: 24px;
+        padding: 12px 25px;
+    }
+    .current-project-caption-2{
+        padding-top: 5%;
+    }
+    .current-project-caption-2 h5 {
+        font-size: 33px;
+    }
+    .current-project-caption-2 p {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .current-project-caption-2 h6 {
+        font-size: 16px;
+        padding-top: 2%;
+        padding-bottom: 5%;
+    }
+    .footer-caption {
+        width: 100%;
+        padding-left: 4%;
+    }
+    .footer-caption h3 {
+        font-size: 52px;
+        line-height: 52px;
+    }
+    .footer-caption p {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .footer-caption-1 {
+        padding-left: 4%;
+        width: 100%;
+        border-bottom: 1px solid #707070 ;
+    }
+    .footer-caption-1 h6 a, .footer-caption-1 h6, .footer-caption-1 h4, .footer-caption-1 h4 a {
+        font-size: 12px;
+        margin-bottom: 0px;
+    }
+    .mailid{
+        padding-left: 25%;
+        font-size: 16px !important;
+    }
+    .footer-caption-1 h5 {
+        font-size: 26px;
+    }
+    .footer-caption-1 p, .footer-caption-1 p a {
+        font-size: 18px;
+        line-height: 26px;
+        padding-top: 2%;
+        padding-bottom: 5%;
+    }
+    .footer-caption-1 h6 a, .footer-caption-1 h6, .footer-caption-1 h4, .footer-caption-1 h4 a {
+        font-size: 14px;
+        margin-bottom: 0px;
+        padding-top: 5%;
+        padding-bottom: 10%;
+    }
+    .sub-footer-caption h4 {
+        font-size: 22px;
+    }
+    .sub-footer .form-control {
+        width: 180%;
+        font-size: 16px;
+    }
+    .subscibe-btn {
+        font-size: 22px;
+        margin-left: 22%;
+        padding-bottom: 5%;
+    }
+    .sub-footer-caption-1{
+        padding-bottom: 5%;
+        padding-top: 5%;
+    }
+    .img-social {
+        width: 80%;
+    }
+    .social-icon {
+        padding-top: 2%;
+    }
+    .sub-footer-caption-1 p, .sub-footer-caption-1 h6 {
+        font-size: 16px;
+        text-align: left;
+    }
+    .footer {
+        display: block;
+    }
+}
+@media (max-width: 414px){
+    .navbar-brand {
+        margin-right: -10rem;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        font-size: 20px;
+        padding-top: 4%;
+    }
+    .carousel-caption h1, .carousel-caption h2, .about-caption h3, .about-caption h2, .project-caption h3 {
+        font-size: 44px;
+    }
+    .banner-contact h6 {
+        font-size: 26px;
+    }
+    .banner-contact p {
+        font-size: 14px;
+        line-height: 19px;
+    }
+    .banner-contact {
+        width: 58%;
+    }
+    .banner-contact{
+        padding-right: 20px;
+    }
+    .about {
+        padding-top: 12%;
+    }
+    .about-caption p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .current-project-caption-1 h6 {
+        font-size: 22px;
+        padding-top: 7%;
+        padding-bottom: 5%;
+    }
+    .btn-book {
+        font-size: 22px;
+        padding: 12px 25px;
+    }
+    .current-project-caption-2 h5 {
+        font-size: 30px;
+    }
+    .current-project-caption-2 p {
+        font-size: 17px;
+        line-height: 24px;
+    }
+    .current-project-caption-2 h6 {
+        font-size: 15px;
+        padding-top: 2%;
+        padding-bottom: 5%;
+    }
+    .project {
+        padding-top: 8%;
+        padding-bottom: 0%;
+    }
+    .footer-caption h3 {
+        font-size: 42px;
+        line-height: 42px;
+    }
+    .footer-caption p {
+        font-size: 17px;
+        line-height: 22px;
+    }
+    .footer-caption-1 h5 {
+        font-size: 24px;
+    }
+    .footer-caption-1 p, .footer-caption-1 p a {
+        font-size: 16px;
+        line-height: 28px;
+        padding-top: 2%;
+        padding-bottom: 5%;
+    }
+    .mailid {
+        padding-left: 20%;
+        font-size: 16px !important;
+    }
+    .sub-footer-caption h4 {
+        font-size: 20px;
+    }
+    .subscibe-btn {
+        font-size: 20px;
+        margin-left: 22%;
+        padding-bottom: 5%;
+    }
+    .sub-footer-caption-1 p, .sub-footer-caption-1 h6 {
+        font-size: 14px;
+        text-align: left;
+    }
+}
+@media (max-width: 412px){
+    .img-logo {
+        width: 55%;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        font-size: 18px;
+        padding-top: 3%;
+    }
+    .btn-book {
+        font-size: 20px;
+        padding: 12px 25px;
+    }
+    .carousel-caption h1, .carousel-caption h2, .about-caption h3, .about-caption h2, .project-caption h3 {
+        font-size: 42px;
+    }
+    .current-project-caption-1 h6 {
+        font-size: 20px;
+        padding-top: 7%;
+        padding-bottom: 5%;
+    }
+    .current-project-caption-2 h6 {
+        font-size: 14px;
+        padding-top: 2%;
+        padding-bottom: 5%;
+    }
+    .current-project-caption-2 h5 {
+        font-size: 26px;
+    }
+}
+@media (max-width: 384px){
+    .img-mobile-menu {
+        width: 75%;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        font-size: 16px;
+        padding-top: 2%;
+    }
+    .carousel-caption h1, .carousel-caption h2, .about-caption h3, .about-caption h2, .project-caption h3 {
+        font-size: 40px;
+    }
+    .banner-contact h6 {
+        font-size: 24px;
+    }
+    .banner-contact p {
+        font-size: 13px;
+        line-height: 17px;
+    }
+    .closebtn {
+        right: 4%;
+        top: 1%;
+        font-size: 25px;
+        width: 40px;
+        height: 40px;
+        border-radius: 62%;
+    }
+    .form-control {
+        padding: 1rem 0rem;
+        font-size: 1.1rem;
+        line-height: 1.2;
+    }
+    .connect-form {
+        padding-top: 10%;
+        padding-right: 2%;
+        padding-left: 2%;
+        padding-bottom: 10%;
+    }
+    .about-caption h6 {
+        font-size: 15px;
+    }
+    .about-caption p {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .about-info-1 h4 {
+        font-size: 18px;
+    }
+    .project-caption p {
+        font-size: 15px;
+        margin-left: 0%;
+    }
+    .current-project-caption h4 {
+        font-size: 20px;
+        line-height: 22px;
+    }
+    .img-plus {
+        width: 8%;
+        right: 8%;
+        top: 2%;
+    }
+    .current-project-caption-1 h6 {
+        font-size: 18px;
+        padding-top: 7%;
+        padding-bottom: 5%;
+    }
+    .btn-book {
+        font-size: 16px;
+        padding: 12px 25px;
+    }
+    .current-project-caption-2 h5 {
+        font-size: 24px;
+    }
+    .current-project-caption-2 p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .current-project-caption-2 h6 {
+        font-size: 14px;
+        padding-top: 2%;
+        padding-bottom: 5%;
+    }
+    .footer-caption h3 {
+        font-size: 36px;
+        line-height: 36px;
+    }
+    .footer-caption p {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .footer-caption-1 h5 {
+        font-size: 22px;
+    }
+    .footer-caption-1 p, .footer-caption-1 p a {
+        font-size: 15px;
+        line-height: 24px;
+        padding-top: 2%;
+        padding-bottom: 5%;
+    }
+    .footer-caption-1 h6 a, .footer-caption-1 h6, .footer-caption-1 h4, .footer-caption-1 h4 a {
+        font-size: 12px;
+        margin-bottom: 0px;
+        padding-top: 5%;
+        padding-bottom: 10%;
+    }
+    .mailid {
+        padding-left: 18%;
+        font-size: 15px !important;
+    }
+    .sub-footer-caption h4 {
+        font-size: 18px;
+    }
+    .sub-footer .form-control {
+        width: 160%;
+        font-size: 14px;
+    }
+    .subscibe-btn {
+        font-size: 18px;
+        margin-left: 12%;
+        padding-bottom: 5%;
+    }
+    .img-social {
+        width: 70%;
+    }
+    .sub-footer-caption-1 p, .sub-footer-caption-1 h6 {
+        font-size: 12px;
+        text-align: left;
+    }
+}
+@media (max-width: 360px){
+    .carousel-caption h1, .carousel-caption h2, .about-caption h3, .about-caption h2, .project-caption h3 {
+        font-size: 38px;
+    }
+    .banner-contact h6 {
+        font-size: 22px;
+    }
+    .banner-contact p {
+        font-size: 12px;
+        line-height: 15px;
+    }
+    .about-caption h6 {
+        font-size: 14px;
+    }
+    .about-caption p {
+        font-size: 13px;
+        line-height: 16px;
+    }
+    .about-info-1 h4 {
+        font-size: 17px;
+    }
+    .project-caption p {
+        font-size: 14px;
+        margin-left: 0%;
+    }
+    .current-project-caption h4 {
+        font-size: 19px;
+        line-height: 20px;
+    }
+    .img-project-logo {
+        width: 70%;
+    }
+    .current-project-caption-1 h6 {
+        font-size: 17px;
+        padding-top: 7%;
+        padding-bottom: 5%;
+    }
+    .current-project-caption-2 h6 {
+        font-size: 13px;
+        padding-top: 2%;
+        padding-bottom: 5%;
+    }
+    .btn-book {
+        font-size: 15px;
+        padding: 12px 25px;
+    }
+    .current-project-caption-2 h5 {
+        font-size: 22px;
+    }
+    .current-project-caption-2 p {
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .footer-caption h3 {
+        font-size: 34px;
+        line-height: 34px;
+    }
+    .footer-caption p {
+        font-size: 15px;
+        line-height: 18px;
+    }
+    .footer-caption-1 h5 {
+        font-size: 20px;
+    }
+    .footer-caption-1 p, .footer-caption-1 p a {
+        font-size: 14px;
+        line-height: 22px;
+        padding-top: 2%;
+        padding-bottom: 5%;
+    }
+    .footer-caption-1 h6 a, .footer-caption-1 h6, .footer-caption-1 h4, .footer-caption-1 h4 a {
+        font-size: 11px;
+        margin-bottom: 0px;
+        padding-top: 5%;
+        padding-bottom: 10%;
+    }
+    .mailid {
+        padding-left: 18%;
+        font-size: 14px !important;
+    }
+    .sub-footer-caption h4 {
+        font-size: 17px;
+    }
+    .subscibe-btn {
+        font-size: 16px;
+        margin-left: 12%;
+        padding-bottom: 5%;
+    }
+    .img-social {
+        width: 65%;
+    }
+}
+@media (max-width: 320px){
+    .carousel-caption h1, .carousel-caption h2, .about-caption h3, .about-caption h2, .project-caption h3 {
+        font-size: 34px;
+    }
+    .banner-contact p {
+        font-size: 10px;
+        line-height: 12px;
+    }
+    .form-control {
+        padding: 1rem 0rem;
+        font-size: 1rem;
+        line-height: 1.2;
+    }
+    .about-caption h6 {
+        font-size: 13px;
+    }
+    .about-caption p {
+        font-size: 12px;
+        line-height: 16px;
+    }
+    .about-info-1 h4 {
+        font-size: 16px;
+    }
+    .project-caption p {
+        font-size: 13px;
+        margin-left: 0%;
+    }
+    .current-project-caption-2 p {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .footer-caption h3 {
+        font-size: 32px;
+        line-height: 32px;
+    }
+    .footer-caption p {
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .footer-caption-1 p, .footer-caption-1 p a {
+        font-size: 12px;
+        line-height: 20px;
+        padding-top: 2%;
+        padding-bottom: 5%;
+    }
+    .footer-caption-1 h6 a, .footer-caption-1 h6, .footer-caption-1 h4, .footer-caption-1 h4 a {
+        font-size: 10px;
+        margin-bottom: 0px;
+        padding-top: 5%;
+        padding-bottom: 10%;
+    }
+    .mailid {
+        padding-left: 18%;
+        font-size: 12px !important;
+    }
+    .sub-footer-caption h4 {
+        font-size: 16px;
+    }
+    .sub-footer-caption-1 p, .sub-footer-caption-1 h6 {
+        font-size: 11px;
+        text-align: left;
+    }
+    .img-social {
+        width: 62%;
+    }
+}
